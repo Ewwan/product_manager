@@ -6,4 +6,4 @@
 <p>For a preview: <a href="https://ewwan.github.io/product_manager/" target="_blank" title="Click to enter the Web Page">Product Manager <sup class="color:grey">↗</sup></a></p>
 <a href="https://ewwan.github.io/product_manager/" target="_blank" title="Click to enter the Web Page"><img src="https://i.imgur.com/lylHDXE.png" title="Click to view: Interactive Product Manager Table" /></a>
 
-<p style="border-left-style: solid, border-left-color:green">Click on the Action buttons to delete an entry, move any entry up (except for the first one) or down (except for the last one). Enjoy!</p>
+<p style="border-left-style: solid; border-left-color:green;">Click on the Action buttons to delete an entry, move any entry up (except for the first one) or down (except for the last one). Enjoy!</p>
